@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-   <a href="https://mateuslcsilva.github.io/Portfolio">
+   <a href="https://mateuslcsilva.github.io/Portfolio" target='_blank'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuslcsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslcsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
