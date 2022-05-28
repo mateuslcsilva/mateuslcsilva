@@ -17,7 +17,7 @@
    <br>
    <div>
 - 🔭 I’m currently working on myself<br>
-- 🌱 I’m currently learning React<br>
+- 🌱 I’m currently learning React and UI/UX Design<br>
 - 🤔 I’m looking for help with find a job<br>
-- 📫 How to reach me: (44) 991416555
+- 📫 How to reach me: (44) 99124-7281
    </div>
