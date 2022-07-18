@@ -17,7 +17,7 @@
    <br>
    <div>
 - 🔭 I’m currently working on myself<br>
-- 🌱 I’m currently learning React and UI/UX Design<br>
+- 🌱 I’m currently learning React, UI/UX Design, NodeJS and Java SpringBoot<br>
 - 🤔 I’m looking for help with find a job<br>
-- 📫 How to reach me: (44) 99124-7281
+- 📫 How to reach me: <a href='https://wa.me/5544991247281'>(44) 99124-7281</a>
    </div>
