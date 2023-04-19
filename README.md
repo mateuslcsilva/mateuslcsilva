@@ -19,8 +19,5 @@
 </div>
    <br>
    <div>
-- 🔭 I’m currently working on myself<br>
-- 🌱 I’m currently learning React, UI/UX Design, NodeJS and Java SpringBoot<br>
-- 🤔 I’m looking for help with find a job<br>
-- 📫 How to reach me: <a href='https://wa.me/5544991247281'>(44) 99124-7281</a>
+Olá! Meu nome é Mateus e sou um desenvolvedor junior apaixonado por tecnologia. Estou procurando meu primeiro emprego na área de desenvolvimento web, onde possa aprender e crescer profissionalmente. Tenho experiência em React, Typescript, Javascript e CSS, e estou buscando novos desafios e oportunidades de aprimorar minhas habilidades. Sou criativo, proativo e comprometido com a qualidade do meu trabalho. Gostaria de fazer parte da sua equipe e contribuir para o sucesso dos seus projetos. 
    </div>
