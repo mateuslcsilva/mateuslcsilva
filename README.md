@@ -19,5 +19,5 @@
 </div>
    <br>
    <div>
-Olá! Meu nome é Mateus e sou um desenvolvedor junior apaixonado por tecnologia. Estou procurando meu primeiro emprego na área de desenvolvimento web, onde possa aprender e crescer profissionalmente. Tenho experiência em React, Typescript, Javascript e CSS, e estou buscando novos desafios e oportunidades de aprimorar minhas habilidades. Sou criativo, proativo e comprometido com a qualidade do meu trabalho. Gostaria de fazer parte da sua equipe e contribuir para o sucesso dos seus projetos. 
+Olá! Meu nome é Mateus e sou um desenvolvedor junior apaixonado por tecnologia. Atualmente trabalhando como full stack, estou trabalhando com PHP + Laravel e Javascript + Cordova. Sempre em busca de oportunidades e desafios, onde possa aprender e crescer profissionalmente. Tenho experiência em React, Typescript, Javascript, PHP Laravel e CSS, e estou buscando novos desafios e oportunidades de aprimorar minhas habilidades. Sou criativo, proativo e comprometido com a qualidade do meu trabalho. Gostaria de fazer parte da sua equipe e contribuir para o sucesso dos seus projetos. 
    </div>
